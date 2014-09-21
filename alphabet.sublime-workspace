@@ -1,0 +1,271 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"St",
+				"style"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"i",
+				"id	Attr"
+			],
+			[
+				"Pa",
+				"PartnerList"
+			],
+			[
+				"Email",
+				"EmailList"
+			],
+			[
+				"l",
+				"lines"
+			],
+			[
+				"as",
+				"as_slice"
+			],
+			[
+				"ar",
+				"args"
+			],
+			[
+				"ge",
+				"get_mut"
+			],
+			[
+				"nu",
+				"numbers_lock"
+			],
+			[
+				"num",
+				"numbers"
+			],
+			[
+				"get",
+				"get_void"
+			],
+			[
+				"path",
+				"paths"
+			],
+			[
+				"print",
+				"println"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 264.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Repositories/Alphabet/alphabet.sublime-project",
+		"/E/Repositories/Alphabet/alphabet.sublime-workspace",
+		"/E/Repositories/Alphabet/src/index.html",
+		"/E/Repositories/Alphabet/src/script.js",
+		"/E/Repositories/cabinet/src/Orchard.Web/App_Data/3045.xml",
+		"/E/Repositories/cabinet/src/Orchard.Web/App_Data/3046.xml",
+		"/E/Repositories/cabinet/src/Orchard.Web/Modules/BrokerKF.PersonalAccount/App_Data/NaturalPersonFormSchema.v2.xml",
+		"/E/Repositories/cabinet/src/Orchard.Web/App_Data/3044.xml",
+		"/E/Repositories/cabinet/src/Orchard.Web/App_Data/Sites/Default/Settings.txt",
+		"/E/Repositories/cabinet/src/Orchard.Web/Modules/BrokerKF.PersonalAccount/App_Data/LegalPersonFormSchema.v2.Example.xml",
+		"/E/Repositories/cabinet/src/Orchard.Web/Modules/BrokerKF.Reports/AppFormLegalReport.cs",
+		"/E/Repositories/cabinet/src/Orchard.Web/Modules/BrokerKF.PersonalAccount/App_Data/LegalPersonFormSchema.v2.xml",
+		"/E/Repositories/cabinet/src/Orchard.Web/App_Data/3030.xml",
+		"/E/Repositories/hamlet.txt",
+		"/X/Sublime Text 3/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/X/Sublime Text 3/Data/Packages/User/rust-exe.sublime-build",
+		"/E/Repositories/racer/src/main.rs",
+		"/E/Repositories/racer/src/racer/scopes.rs",
+		"/X/Sublime Text 3/Data/Packages/User/rust-run-exe.sublime-build",
+		"/E/Repositories/Play.Rust/src/world.rs",
+		"/X/Sublime Text 2/Data/Packages/D/D.sublime-build",
+		"/X/Sublime Text 3/Data/Packages/User/rust-lib.sublime-build",
+		"/E/Repositories/racer/src/test.rs",
+		"/E/Repositories/racer/src/racer/nameres.rs",
+		"/E/Repositories/racer/src/racer/test.rs",
+		"/E/Repositories/racer/src/racer/mod.rs",
+		"/E/Repositories/racer/src/test.exe",
+		"/E/Repositories/rust/src/libstd/os.rs",
+		"/X/Sublime Text 3/changelog.txt"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"checkList",
+			"type",
+			"disp",
+			"SysInfo",
+			"Restrictions",
+			"<Name",
+			"BirthDate",
+			"<Name",
+			"Name=",
+			"<Name=",
+			"Name=",
+			"Name-",
+			"<id",
+			"table",
+			"Value=",
+			" =",
+			"RUST_SRC_PATH",
+			" =",
+			"            />",
+			"             />",
+			"ctrl+b",
+			"srcpaths",
+			"RUST_SRC_PATH",
+			"srcpaths",
+			"RUST_SRC_PATH",
+			"PREFIX {},{}",
+			"RUST_SRC_PATH"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"FieldInfo",
+			">",
+			"/>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 457.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
