@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.js"></script>
+    <script type="text/javascript" src="math.js"></script>
+	<link rel="stylesheet" href="styles.css" type="text/css">
+    <script type="text/javascript">
+        $( document ).ready(function() {
+            set_exam();
+            })
+        
+    </script>
+</head>
+<body>
+<div id="header"></div>
+<div id="math" class="math">
+   <table>
+       <tr>
+           <td>
+               <div id="exam" class="exam">Exam</div>
+           </td>
+           <td>
+               <div id="answer" class="answer">answer</div>
+           </td>
+           <td>
+               <div id="result_ok" class="result_ok"></div>
+           </td>
+           <td>
+               <div id="result_err" class="result_err"></div>
+           </td>
+       </tr>
+   </table>    
+</div>
+<div id="buttons" class="buttons">
+    <table>
+        <tr>
+            <td><div id="btn-1" onclick="click_num(this)">1</div></td>
+            <td><div id="btn-2" onclick="click_num(this)">2</div></td>
+            <td><div id="btn-3" onclick="click_num(this)">3</div></td>
+        </tr>
+        <tr>
+            <td><div id="btn-4" onclick="click_num(this)">4</div></td>
+            <td><div id="btn-5" onclick="click_num(this)">5</div></td>
+            <td><div id="btn-6" onclick="click_num(this)">6</div></td>
+        </tr>
+        <tr>
+            <td><div id="btn-7" onclick="click_num(this)">7</div></td>
+            <td><div id="btn-8" onclick="click_num(this)">8</div></td>
+            <td><div id="btn-9" onclick="click_num(this)">9</div></td>
+        </tr>
+        <tr>
+            <td><div id="del" class="btn-del" onclick="click_del(this)">Del</div></td>
+            <td><div id="btn-0" onclick="click_num(this)">0</div></td>
+            <td><div id="ok" class="btn-ok" onclick="click_ok()">OK</div></td>
+        </tr>
+    </table>
+</div>
+</body>
+</html>

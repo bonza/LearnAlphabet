@@ -1,0 +1,49 @@
+.buttons table{
+    height: 450px;
+    border-color: blue;
+    border-width: 1px;
+    border-style: solid;
+}
+.buttons td{
+    text-align: center;
+    border-color: blue;
+    border-width: 1px;
+    border-style: solid;
+    width: 150px;
+    height: 120px;
+}
+.buttons{
+    color: blue;
+    font-family: consolas;    
+    font-size: 70px;
+}
+.btn-ok {
+    color: green;
+}
+.btn-del {
+    color: red;
+}
+.answer{
+    color: green;
+    font-family: consolas;    
+    font-size: 70px;
+}
+.exam{
+    color: red;
+    font-family: consolas;    
+    font-size: 70px;
+}
+.result_ok{
+    color: green;
+    font-family: consolas;    
+    font-size: 70px;
+    width: auto;
+    padding-left: 20px;
+}
+.result_err{
+    color: red;
+    font-family: consolas;    
+    font-size: 70px;
+    width: auto;
+    padding-left: 20px;
+}
